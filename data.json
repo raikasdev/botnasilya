@@ -1,0 +1,235 @@
+{
+  "youtube": {
+    "UC-8QAzbLcRglXeN_MY9blyw": {
+      "type": "video",
+      "title": "The Future of Programming",
+      "videoId": "NWGzAwqfOG4",
+      "author": "Ben Awad",
+      "authorId": "UC-8QAzbLcRglXeN_MY9blyw",
+      "videoThumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NWGzAwqfOG4/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAyy05VxiiJ5Gapjd8t6TvomEBqtA",
+          "width": 405,
+          "height": 720
+        }
+      ],
+      "viewCountText": "568 views",
+      "viewCount": 568,
+      "publishedText": "15 minutes ago",
+      "durationText": "SHORTS",
+      "lengthSeconds": 0,
+      "liveNow": false,
+      "premiere": false,
+      "premium": false
+    },
+    "Fireship": {
+      "type": "video",
+      "title": "Lisp in 100 Seconds",
+      "videoId": "INUHCQST7CU",
+      "author": "Fireship",
+      "authorId": "Fireship",
+      "videoThumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/INUHCQST7CU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAW5lrpFTGtCJFnt8SdoZQ8aVLbFQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INUHCQST7CU/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCkuC7cAA6lc0hVkGqWcsOODxpKVw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INUHCQST7CU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZHwl85etQeRBO4uHGkZhWn85a-w",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/INUHCQST7CU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkVvHyRp_gUTYYnWW1Od4PAJazZg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "viewCountText": "3,601 views",
+      "viewCount": 3601,
+      "publishedText": "8 minutes ago",
+      "durationText": "2:39",
+      "lengthSeconds": 159,
+      "liveNow": false,
+      "premiere": false,
+      "premium": false
+    },
+    "UCWr0mx597DnSGLFk1WfvSkQ": {
+      "type": "video",
+      "title": "How long it takes to start windows 98 in 2022",
+      "videoId": "_BvGCLX3Boc",
+      "author": "Hallden",
+      "authorId": "UCWr0mx597DnSGLFk1WfvSkQ",
+      "videoThumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAvyo8HnB17IFo7rjl3WqjhITXj3A",
+          "width": 405,
+          "height": 720
+        }
+      ],
+      "viewCountText": "254 views",
+      "viewCount": 254,
+      "publishedText": "16 minutes ago",
+      "durationText": "SHORTS",
+      "lengthSeconds": 0,
+      "liveNow": false,
+      "premiere": false,
+      "premium": false
+    },
+    "UCc4IizbM0q_JySK3XUY0Drw": {
+      "type": "video",
+      "title": "Where I Have Been.",
+      "videoId": "62uTusJueSA",
+      "author": "zyapguy",
+      "authorId": "UCc4IizbM0q_JySK3XUY0Drw",
+      "videoThumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/62uTusJueSA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDRVAvVqSflYYpEah_rFX92L5E-g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/62uTusJueSA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDLZnOSUzCQvRdtlMY-6P8n5JvQhw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/62uTusJueSA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA16fdI3toCi0SY7w-_V24okMNcdw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/62uTusJueSA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADlyxDucxguvTDXHqoDVC41J1W2g",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "viewCountText": "173 views",
+      "viewCount": 173,
+      "publishedText": "10 minutes ago",
+      "durationText": "1:14",
+      "lengthSeconds": 74,
+      "liveNow": false,
+      "premiere": false,
+      "premium": false
+    },
+    "JomaOppa": {
+      "type": "video",
+      "title": "if “normal” job interviews were like coding interviews",
+      "videoId": "bn_KRzohcAo",
+      "author": "Joma Tech",
+      "authorId": "JomaOppa",
+      "videoThumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDaHZLWwc6SIDPkFrjsrxU_BsHVqQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoPIh5yST87c6B3TIv2lvV6jkw1A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5QwYmSh1EgFiPrOlB_63PP7xI1A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bn_KRzohcAo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzfRCWXa4BE1OiTEmElZORT_4Q6w",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "viewCountText": "1,530 views",
+      "viewCount": 1530,
+      "publishedText": "6 minutes ago",
+      "durationText": "2:00",
+      "lengthSeconds": 120,
+      "liveNow": false,
+      "premiere": false,
+      "premium": false
+    }
+  },
+  "podcast": {
+    "https://feeds.simplecast.com/fJGOlywC": {
+      "creator": "contact.laura.kankaala@gmail.com (Juho Jauhiainen, Antti Kurittu, Laura Kankaala)",
+      "title": "Episodi 105 - Moiccu moi",
+      "link": "https://turvakarajat.fi/episodes/episodi-105-moiccu-moi-iftXTgVo",
+      "pubDate": "Mon, 22 Aug 2022 03:00:00 +0000",
+      "author": "contact.laura.kankaala@gmail.com (Juho Jauhiainen, Antti Kurittu, Laura Kankaala)",
+      "content:encoded": "<p>Jouni Mikkolan ja Juuso Myllylän uusi podcast<br /><a href=\"https://www.uhkametsa.fi/\">https://www.uhkametsa.fi/</a></p><p>Turvakäräjien sometilit<br /><a href=\"https://facebook.com/turvakarajat\">https://facebook.com/turvakarajat</a><br /><a href=\"https://twitter.com/turvakarajat\">https://twitter.com/turvakarajat</a><br /><a href=\"https://instagram.com/turvakarajat\">https://instagram.com/turvakarajat</a><br /><a href=\"https://fi.linkedin.com/company/turvakarajat\">https://fi.linkedin.com/company/turvakarajat</a></p><p>Lauran somet<br /><a href=\"https://www.instagram.com/%5C_llarppa\">https://www.instagram.com/\\_llarppa</a><br /><a href=\"https://twitter.com/%5C_larppa\">https://twitter.com/\\_larppa</a><br /><a href=\"https://www.linkedin.com/in/laura-kankaala\">https://www.linkedin.com/in/laura-kankaala</a></p><p>Juhon somet<br /><a href=\"https://twitter.com/juhojauhiainen\">https://twitter.com/juhojauhiainen</a><br /><a href=\"https://www.instagram.com/jauhiaine\">https://www.instagram.com/jauhiaine</a><br /><a href=\"https://www.linkedin.com/in/jauhiainen\">https://www.linkedin.com/in/jauhiainen</a></p><p>Antin somet<br />N/A</p>\n",
+      "content:encodedSnippet": "Jouni Mikkolan ja Juuso Myllylän uusi podcast\nhttps://www.uhkametsa.fi/\nTurvakäräjien sometilit\nhttps://facebook.com/turvakarajat\nhttps://twitter.com/turvakarajat\nhttps://instagram.com/turvakarajat\nhttps://fi.linkedin.com/company/turvakarajat\nLauran somet\nhttps://www.instagram.com/\\_llarppa\nhttps://twitter.com/\\_larppa\nhttps://www.linkedin.com/in/laura-kankaala\nJuhon somet\nhttps://twitter.com/juhojauhiainen\nhttps://www.instagram.com/jauhiaine\nhttps://www.linkedin.com/in/jauhiainen\nAntin somet\nN/A",
+      "enclosure": {
+        "length": "29689300",
+        "type": "audio/mpeg",
+        "url": "https://cdn.simplecast.com/audio/beefbca9-0f83-4ffa-b5c0-4cd26da1c1c9/episodes/be74cd14-99b8-4917-b1d1-b28be2d32b62/audio/f916c3d3-089c-4491-8fb8-cabedc3ac475/default_tc.mp3?aid=rss_feed&feed=fJGOlywC"
+      },
+      "content": "<p>Jouni Mikkolan ja Juuso Myllylän uusi podcast<br /><a href=\"https://www.uhkametsa.fi/\">https://www.uhkametsa.fi/</a></p><p>Turvakäräjien sometilit<br /><a href=\"https://facebook.com/turvakarajat\">https://facebook.com/turvakarajat</a><br /><a href=\"https://twitter.com/turvakarajat\">https://twitter.com/turvakarajat</a><br /><a href=\"https://instagram.com/turvakarajat\">https://instagram.com/turvakarajat</a><br /><a href=\"https://fi.linkedin.com/company/turvakarajat\">https://fi.linkedin.com/company/turvakarajat</a></p><p>Lauran somet<br /><a href=\"https://www.instagram.com/%5C_llarppa\">https://www.instagram.com/\\_llarppa</a><br /><a href=\"https://twitter.com/%5C_larppa\">https://twitter.com/\\_larppa</a><br /><a href=\"https://www.linkedin.com/in/laura-kankaala\">https://www.linkedin.com/in/laura-kankaala</a></p><p>Juhon somet<br /><a href=\"https://twitter.com/juhojauhiainen\">https://twitter.com/juhojauhiainen</a><br /><a href=\"https://www.instagram.com/jauhiaine\">https://www.instagram.com/jauhiaine</a><br /><a href=\"https://www.linkedin.com/in/jauhiainen\">https://www.linkedin.com/in/jauhiainen</a></p><p>Antin somet<br />N/A</p>\n",
+      "contentSnippet": "Jouni Mikkolan ja Juuso Myllylän uusi podcast\nhttps://www.uhkametsa.fi/\nTurvakäräjien sometilit\nhttps://facebook.com/turvakarajat\nhttps://twitter.com/turvakarajat\nhttps://instagram.com/turvakarajat\nhttps://fi.linkedin.com/company/turvakarajat\nLauran somet\nhttps://www.instagram.com/\\_llarppa\nhttps://twitter.com/\\_larppa\nhttps://www.linkedin.com/in/laura-kankaala\nJuhon somet\nhttps://twitter.com/juhojauhiainen\nhttps://www.instagram.com/jauhiaine\nhttps://www.linkedin.com/in/jauhiainen\nAntin somet\nN/A",
+      "guid": "d1387822-0327-49bf-8e1b-41241e11bade",
+      "isoDate": "2022-08-22T03:00:00.000Z",
+      "itunes": {
+        "author": "Juho Jauhiainen, Antti Kurittu, Laura Kankaala",
+        "subtitle": "Kaikki hyvä päättyy aikanaan, niin myös Turvakäräjät! Jäämme tämän jakson jälkeen tauolle, jonka pituudesta ei ole tietoa. Avaamme tässä episodissa syitä taukoon sekä mitkä hetket kuluneesta kahdesta vuodesta ovat olleet mielestämme parhaita. Palaamme kuitenkin live-episodin muodossa vielä 14.10. järjestettävän tietoturvapäivän muodossa estradille. Tästä tapahtumasta lisätietoja myöhemmin somekanavissamme. Kiitos kaikille kuuntelijoille! 💙",
+        "summary": "Kaikki hyvä päättyy aikanaan, niin myös Turvakäräjät! Jäämme tämän jakson jälkeen tauolle, jonka pituudesta ei ole tietoa. Avaamme tässä episodissa syitä taukoon sekä mitkä hetket kuluneesta kahdesta vuodesta ovat olleet mielestämme parhaita. Palaamme kuitenkin live-episodin muodossa vielä 14.10. järjestettävän tietoturvapäivän muodossa estradille. Tästä tapahtumasta lisätietoja myöhemmin somekanavissamme. Kiitos kaikille kuuntelijoille! 💙",
+        "explicit": "yes",
+        "duration": "00:30:52",
+        "episode": "105",
+        "keywords": "kiitos, parhaat palat, juuso myllylä, we'll be back, uhkametsä, päätösjakso, jouni mikkola, kuoleva joutsen, tauko"
+      }
+    },
+    "https://hakkerit.libsyn.com/rss": {
+      "title": "Suomesta maailmalle, vieraana Otto Ebeling| 0x26",
+      "link": "https://hakkerit.libsyn.com/metan-leiviss-vieraana-otto-ebeling-0x26",
+      "pubDate": "Tue, 04 Oct 2022 06:40:00 +0000",
+      "content:encoded": "<p>Kutsuimme kartanolle vieraaksi merkittävän kansainvälisen uran Facebookilla eli Metalla tehneen sovellustietoturva-asiantuntijan Otto Ebelingin. Otto kertoo meille millaista on työskennellä tietoturva-asiantuntijana kaikkien tuntemassa teknologiayrityksessa, minkälainen rekrytointiprosessi oli ja millaisia työtehtäviä hänellä on ollut Metan sovellustietoturvallisuuden parissa. Keskustelemme myös keväällä 2019 tapahtuneesta WhatsAppin tietoturvaloukkauksesta, joka oli tehty NSO:n hyökkäystyökalu Pegasuksella, ja jonka tutkinnassa Otto oli mukana. </p> <p>Äänijulkaisun lähdeluettelo:  Vieras: Otto Ebeling <a href= \"https://twitter.com/loginuid\">https://twitter.com/loginuid</a> </p> <p>Herrasmieshakkerit Twitterissä <a href= \"https://twitter.com/hakkerit\">https://twitter.com/hakkerit</a> </p> <p>Herrasmieshakkerit Youtubessa <a href= \"https://youtube.com/c/Herrasmieshakkerit\">https://youtube.com/c/Herrasmieshakkerit</a> </p> <p>Erikoisjakso: Toomas Hendrik Ilves <a href= \"https://youtu.be/FBp66gUUglI\">https://youtu.be/FBp66gUUglI</a> </p> <p>Cloudflare ja Kiwifarms <a href= \"https://blog.cloudflare.com/kiwifarms-blocked/\">https://blog.cloudflare.com/kiwifarms-blocked/</a> </p> <p>Äänen muokkaaminen tekoälyllä <a href= \"https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/\"> https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/</a> </p> <p>Äänen muokkaaminen tekoälyllä - koe recast <a href= \"https://koe.ai/recast/\">https://koe.ai/recast/</a> </p> <p>Äänen muokkaaminen tekoälyllä - resemble.ai <a href= \"https://www.resemble.ai/\">https://www.resemble.ai/</a> </p> <p>Otto New Yorkerissa <a href= \"https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens\"> https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens</a> </p> <p>Metan tuoteturvallisuus <a href= \"https://about.fb.com/news/2019/01/designing-security-for-billions/\"> https://about.fb.com/news/2019/01/designing-security-for-billions/ </a> </p> <p>The Art of Mac Malware <a href= \"https://taomm.org/index.html\">https://taomm.org/index.html</a> </p> <p>Software Engineering at Google <a href= \"https://abseil.io/resources/swe-book\">https://abseil.io/resources/swe-book</a> </p> <p>Assembly 2022 voittajat <a href= \"https://party.assembly.org/summer22/news/competition-results\">https://party.assembly.org/summer22/news/competition-results</a> </p> <p>M22 by p01 <a href= \"https://www.youtube.com/watch?v=5nb0Z16_MQY\">https://www.youtube.com/watch?v=5nb0Z16_MQY</a> </p>",
+      "content:encodedSnippet": "Kutsuimme kartanolle vieraaksi merkittävän kansainvälisen uran Facebookilla eli Metalla tehneen sovellustietoturva-asiantuntijan Otto Ebelingin. Otto kertoo meille millaista on työskennellä tietoturva-asiantuntijana kaikkien tuntemassa teknologiayrityksessa, minkälainen rekrytointiprosessi oli ja millaisia työtehtäviä hänellä on ollut Metan sovellustietoturvallisuuden parissa. Keskustelemme myös keväällä 2019 tapahtuneesta WhatsAppin tietoturvaloukkauksesta, joka oli tehty NSO:n hyökkäystyökalu Pegasuksella, ja jonka tutkinnassa Otto oli mukana. \n Äänijulkaisun lähdeluettelo:  Vieras: Otto Ebeling https://twitter.com/loginuid \n Herrasmieshakkerit Twitterissä https://twitter.com/hakkerit \n Herrasmieshakkerit Youtubessa https://youtube.com/c/Herrasmieshakkerit \n Erikoisjakso: Toomas Hendrik Ilves https://youtu.be/FBp66gUUglI \n Cloudflare ja Kiwifarms https://blog.cloudflare.com/kiwifarms-blocked/ \n Äänen muokkaaminen tekoälyllä  https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/ \n Äänen muokkaaminen tekoälyllä - koe recast https://koe.ai/recast/ \n Äänen muokkaaminen tekoälyllä - resemble.ai https://www.resemble.ai/ \n Otto New Yorkerissa  https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens \n Metan tuoteturvallisuus  https://about.fb.com/news/2019/01/designing-security-for-billions/  \n The Art of Mac Malware https://taomm.org/index.html \n Software Engineering at Google https://abseil.io/resources/swe-book \n Assembly 2022 voittajat https://party.assembly.org/summer22/news/competition-results \n M22 by p01 https://www.youtube.com/watch?v=5nb0Z16_MQY",
+      "enclosure": {
+        "length": "65814645",
+        "type": "audio/mpeg",
+        "url": "https://traffic.libsyn.com/secure/hakkerit/2022_9.mp3?dest-id=1518941"
+      },
+      "content": "<p>Kutsuimme kartanolle vieraaksi merkittävän kansainvälisen uran Facebookilla eli Metalla tehneen sovellustietoturva-asiantuntijan Otto Ebelingin. Otto kertoo meille millaista on työskennellä tietoturva-asiantuntijana kaikkien tuntemassa teknologiayrityksessa, minkälainen rekrytointiprosessi oli ja millaisia työtehtäviä hänellä on ollut Metan sovellustietoturvallisuuden parissa. Keskustelemme myös keväällä 2019 tapahtuneesta WhatsAppin tietoturvaloukkauksesta, joka oli tehty NSO:n hyökkäystyökalu Pegasuksella, ja jonka tutkinnassa Otto oli mukana. </p> <p>Äänijulkaisun lähdeluettelo:<br /> <br /> Vieras: Otto Ebeling<br /> <a href= \"https://twitter.com/loginuid\">https://twitter.com/loginuid</a> </p> <p>Herrasmieshakkerit Twitterissä<br /> <a href= \"https://twitter.com/hakkerit\">https://twitter.com/hakkerit</a> </p> <p>Herrasmieshakkerit Youtubessa<br /> <a href= \"https://youtube.com/c/Herrasmieshakkerit\">https://youtube.com/c/Herrasmieshakkerit</a> </p> <p>Erikoisjakso: Toomas Hendrik Ilves<br /> <a href= \"https://youtu.be/FBp66gUUglI\">https://youtu.be/FBp66gUUglI</a> </p> <p>Cloudflare ja Kiwifarms<br /> <a href= \"https://blog.cloudflare.com/kiwifarms-blocked/\">https://blog.cloudflare.com/kiwifarms-blocked/</a> </p> <p>Äänen muokkaaminen tekoälyllä<br /> <a href= \"https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/\"> https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/</a> </p> <p>Äänen muokkaaminen tekoälyllä - koe recast<br /> <a href= \"https://koe.ai/recast/\">https://koe.ai/recast/</a> </p> <p>Äänen muokkaaminen tekoälyllä - resemble.ai<br /> <a href= \"https://www.resemble.ai/\">https://www.resemble.ai/</a> </p> <p>Otto New Yorkerissa<br /> <a href= \"https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens\"> https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens</a> </p> <p>Metan tuoteturvallisuus<br /> <a href= \"https://about.fb.com/news/2019/01/designing-security-for-billions/\"> https://about.fb.com/news/2019/01/designing-security-for-billions/ </a> </p> <p>The Art of Mac Malware<br /> <a href= \"https://taomm.org/index.html\">https://taomm.org/index.html</a> </p> <p>Software Engineering at Google<br /> <a href= \"https://abseil.io/resources/swe-book\">https://abseil.io/resources/swe-book</a> </p> <p>Assembly 2022 voittajat<br /> <a href= \"https://party.assembly.org/summer22/news/competition-results\">https://party.assembly.org/summer22/news/competition-results</a> </p> <p>M22 by p01<br /> <a href= \"https://www.youtube.com/watch?v=5nb0Z16_MQY\">https://www.youtube.com/watch?v=5nb0Z16_MQY</a> </p>",
+      "contentSnippet": "Kutsuimme kartanolle vieraaksi merkittävän kansainvälisen uran Facebookilla eli Metalla tehneen sovellustietoturva-asiantuntijan Otto Ebelingin. Otto kertoo meille millaista on työskennellä tietoturva-asiantuntijana kaikkien tuntemassa teknologiayrityksessa, minkälainen rekrytointiprosessi oli ja millaisia työtehtäviä hänellä on ollut Metan sovellustietoturvallisuuden parissa. Keskustelemme myös keväällä 2019 tapahtuneesta WhatsAppin tietoturvaloukkauksesta, joka oli tehty NSO:n hyökkäystyökalu Pegasuksella, ja jonka tutkinnassa Otto oli mukana. \n Äänijulkaisun lähdeluettelo:\n  Vieras: Otto Ebeling\n https://twitter.com/loginuid \n Herrasmieshakkerit Twitterissä\n https://twitter.com/hakkerit \n Herrasmieshakkerit Youtubessa\n https://youtube.com/c/Herrasmieshakkerit \n Erikoisjakso: Toomas Hendrik Ilves\n https://youtu.be/FBp66gUUglI \n Cloudflare ja Kiwifarms\n https://blog.cloudflare.com/kiwifarms-blocked/ \n Äänen muokkaaminen tekoälyllä\n  https://arstechnica.com/information-technology/2022/09/with-koe-recast-you-can-change-your-voice-as-easily-as-your-clothing/ \n Äänen muokkaaminen tekoälyllä - koe recast\n https://koe.ai/recast/ \n Äänen muokkaaminen tekoälyllä - resemble.ai\n https://www.resemble.ai/ \n Otto New Yorkerissa\n  https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens \n Metan tuoteturvallisuus\n  https://about.fb.com/news/2019/01/designing-security-for-billions/  \n The Art of Mac Malware\n https://taomm.org/index.html \n Software Engineering at Google\n https://abseil.io/resources/swe-book \n Assembly 2022 voittajat\n https://party.assembly.org/summer22/news/competition-results \n M22 by p01\n https://www.youtube.com/watch?v=5nb0Z16_MQY",
+      "guid": "9c49dd5a-4835-4653-9cfe-67d68be23ace",
+      "isoDate": "2022-10-04T06:40:00.000Z",
+      "itunes": {
+        "subtitle": "Kutsuimme kartanolle vieraaksi merkittävän kansainvälisen uran Facebookilla eli Metalla tehneen sovellustietoturva-asiantuntijan Otto Ebelingin. Otto kertoo meille millaista on työskennellä tietoturva-asiantuntijana kaikkien tuntemassa...",
+        "explicit": "false",
+        "duration": "45:42",
+        "image": "https://ssl-static.libsyn.com/p/assets/5/2/e/2/52e23ea13cccc58b40be95ea3302a6a1/PRIMARY_LIBSYN_herrasmieshakkerit_valk_web_300x300_2_copy.png",
+        "keywords": ""
+      }
+    },
+    "https://anchor.fm/s/5fad03b8/podcast/rss": {
+      "creator": "Lounastauko",
+      "title": "15. Minna Salinmäki - Työnohjaus on työelämän kausihuoltoa, työkyvyn ylläpitoa",
+      "link": "https://anchor.fm/jms-tehdas/episodes/15--Minna-Salinmki---Tynohjaus-on-tyelmn-kausihuoltoa--tykyvyn-yllpitoa-e1adaiq",
+      "pubDate": "Wed, 17 Nov 2021 07:57:03 GMT",
+      "enclosure": {
+        "url": "https://anchor.fm/s/5fad03b8/podcast/play/43477018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-17%2F43b04b37-a0f7-3277-4c82-3b58778cca2d.mp3",
+        "length": "39203590",
+        "type": "audio/mpeg"
+      },
+      "dc:creator": "Lounastauko",
+      "content": "<p>Tämän viikon jaksossa vieraana on Työnohjaus Ajantaikaa yrittäjä ja NLP-kouluttaja Minna Salinmäki.</p>\n<p>Jaksossa keskustellaan paljon työnohjauksesta: mitä työnohjaus on, missä tilanteissa työnohjausta voisi käyttää ja kuinka työnohjaukseen tullaan. Ei tarvita kriisiä, vaan työnohjaus tulisi nähdä työn ja työntekemisen kehittämisen välineenä. Se antaa työkaluja oman työn tutkimiseen, arviointiin ja kehittämiseen, jolloin työntekijän hyvinvointi, työn laatu ja työn tuottavuus on mahdollista parantua. Tottakai keskustellaan myös Minnan työurasta ja yritystoiminnasta luopumisesta sekä Jämsästä. Jämsästä Minna totetaan, että meillä on täällä kaikki hyvän elämän perustarpeet tässä käsillä. &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Minna on toiminut yrittäjänä jo vuodesta 1993 lähtien. Inhimillisyys ja ihmisten auttaminen ovat olleet Minnan perusarvoja alusta alkaen. Vuoteen 2018 asti työn ytimessä oli toimintaterapia, joka kasvoi yhden naisen yrityksestä noin 10 henkilön työyhteisöksi. Jo vuonna 2015 toimintaterapian rinnalle tuli työnohjauksen prosesseja. Lopulta vuonna 2018 Minna luopui rakkaasta lapsestaan ja myi toimintaterapiayrityksen, jotta aikaa jäi enemmän itselle, itsen kehittämiselle ja työnohjaukselle. Samalla Minna jatkoi jo 90-luvulla alkaneita opintoja ja on kouluttautunut NLP-osaajaksi, josta on tullut tärkeä työkalu työnohjausprosesseissa. Ensi syksynä käynnistyy myös Minnan vetämä NLP-koulutuskin.</p>\n<p>Ota yhteyttä Minnaan:</p>\n<p>FB: <a href=\"https://www.facebook.com/tyonohjausajantaikaa\" target=\"_blank\"><strong>@tyonohjausajantaikaa</strong></a></p>\n<p>IG: <a href=\"https://www.instagram.com/tyonohjaus_ajantaikaa/\" target=\"_blank\"><strong>@tyonohjaus_ajantaikaa</strong></a></p>\n<p>WWW: <a href=\"http://www.tyonohjausajantaikaa.fi/\" target=\"_blank\"><strong>tyonohjausajantaikaa.fi</strong></a></p>\n<p>EMAIL: <a href=\"mailto:minna.salinmaki@tyonohjausajantaikaa.fi\" target=\"_blank\"><strong>minna.salinmaki@tyonohjausajantaikaa.fi</strong></a></p>\n<p><br></p>\n<p>Jakson hostaaja: Petteri Koskinen</p>\n<p>#jämsätehdas #jämsä #etätyötila #lounastaukopodcast</p>\n<p>___________________________________________________________________</p>\n<p>Jämsä Tehtaan etätyötilassa kohtaavat erilaiset ihmiset ja erilaiset tarinat. Lounastauko vie ruokapöytäkeskustelut astetta pidemmälle ja antaa äänen pikkukaupungin osaamiselle ja tietotaidolle. Podcast-pöydän ääressä nostetaan esiin piilossa olevia jämsäläisten henkilö- ja yritystarinoita ja käsitellään työelämää sekä työn tekemistä erilaisista näkökulmista.</p>\n<p>Vieraile kulisseissa ja tutustu Lounastauon tukikohtaan Jämsä Tehtaaseen:</p>\n<p>WWW: <a href=\"https://jamsatehdas.fi/\"><strong>jamsatehdas.fi</strong></a></p>\n<p>IG: <a href=\"https://www.instagram.com/jamsatehdas\"><strong>@jamsatehdas</strong></a></p>\n<p>FB: <a href=\"https://www.facebook.com/jamsatehdas\"><strong>Jämsä Tehdas</strong></a></p>\n",
+      "contentSnippet": "Tämän viikon jaksossa vieraana on Työnohjaus Ajantaikaa yrittäjä ja NLP-kouluttaja Minna Salinmäki.\nJaksossa keskustellaan paljon työnohjauksesta: mitä työnohjaus on, missä tilanteissa työnohjausta voisi käyttää ja kuinka työnohjaukseen tullaan. Ei tarvita kriisiä, vaan työnohjaus tulisi nähdä työn ja työntekemisen kehittämisen välineenä. Se antaa työkaluja oman työn tutkimiseen, arviointiin ja kehittämiseen, jolloin työntekijän hyvinvointi, työn laatu ja työn tuottavuus on mahdollista parantua. Tottakai keskustellaan myös Minnan työurasta ja yritystoiminnasta luopumisesta sekä Jämsästä. Jämsästä Minna totetaan, että meillä on täällä kaikki hyvän elämän perustarpeet tässä käsillä.     \nMinna on toiminut yrittäjänä jo vuodesta 1993 lähtien. Inhimillisyys ja ihmisten auttaminen ovat olleet Minnan perusarvoja alusta alkaen. Vuoteen 2018 asti työn ytimessä oli toimintaterapia, joka kasvoi yhden naisen yrityksestä noin 10 henkilön työyhteisöksi. Jo vuonna 2015 toimintaterapian rinnalle tuli työnohjauksen prosesseja. Lopulta vuonna 2018 Minna luopui rakkaasta lapsestaan ja myi toimintaterapiayrityksen, jotta aikaa jäi enemmän itselle, itsen kehittämiselle ja työnohjaukselle. Samalla Minna jatkoi jo 90-luvulla alkaneita opintoja ja on kouluttautunut NLP-osaajaksi, josta on tullut tärkeä työkalu työnohjausprosesseissa. Ensi syksynä käynnistyy myös Minnan vetämä NLP-koulutuskin.\nOta yhteyttä Minnaan:\nFB: @tyonohjausajantaikaa\nIG: @tyonohjaus_ajantaikaa\nWWW: tyonohjausajantaikaa.fi\nEMAIL: minna.salinmaki@tyonohjausajantaikaa.fi\n\nJakson hostaaja: Petteri Koskinen\n#jämsätehdas #jämsä #etätyötila #lounastaukopodcast\n___________________________________________________________________\nJämsä Tehtaan etätyötilassa kohtaavat erilaiset ihmiset ja erilaiset tarinat. Lounastauko vie ruokapöytäkeskustelut astetta pidemmälle ja antaa äänen pikkukaupungin osaamiselle ja tietotaidolle. Podcast-pöydän ääressä nostetaan esiin piilossa olevia jämsäläisten henkilö- ja yritystarinoita ja käsitellään työelämää sekä työn tekemistä erilaisista näkökulmista.\nVieraile kulisseissa ja tutustu Lounastauon tukikohtaan Jämsä Tehtaaseen:\nWWW: jamsatehdas.fi\nIG: @jamsatehdas\nFB: Jämsä Tehdas",
+      "guid": "b0d00fd6-7055-42e3-a1cb-ad1860d0b0b7",
+      "isoDate": "2021-11-17T07:57:03.000Z",
+      "itunes": {
+        "summary": "<p>Tämän viikon jaksossa vieraana on Työnohjaus Ajantaikaa yrittäjä ja NLP-kouluttaja Minna Salinmäki.</p>\n<p>Jaksossa keskustellaan paljon työnohjauksesta: mitä työnohjaus on, missä tilanteissa työnohjausta voisi käyttää ja kuinka työnohjaukseen tullaan. Ei tarvita kriisiä, vaan työnohjaus tulisi nähdä työn ja työntekemisen kehittämisen välineenä. Se antaa työkaluja oman työn tutkimiseen, arviointiin ja kehittämiseen, jolloin työntekijän hyvinvointi, työn laatu ja työn tuottavuus on mahdollista parantua. Tottakai keskustellaan myös Minnan työurasta ja yritystoiminnasta luopumisesta sekä Jämsästä. Jämsästä Minna totetaan, että meillä on täällä kaikki hyvän elämän perustarpeet tässä käsillä. &nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Minna on toiminut yrittäjänä jo vuodesta 1993 lähtien. Inhimillisyys ja ihmisten auttaminen ovat olleet Minnan perusarvoja alusta alkaen. Vuoteen 2018 asti työn ytimessä oli toimintaterapia, joka kasvoi yhden naisen yrityksestä noin 10 henkilön työyhteisöksi. Jo vuonna 2015 toimintaterapian rinnalle tuli työnohjauksen prosesseja. Lopulta vuonna 2018 Minna luopui rakkaasta lapsestaan ja myi toimintaterapiayrityksen, jotta aikaa jäi enemmän itselle, itsen kehittämiselle ja työnohjaukselle. Samalla Minna jatkoi jo 90-luvulla alkaneita opintoja ja on kouluttautunut NLP-osaajaksi, josta on tullut tärkeä työkalu työnohjausprosesseissa. Ensi syksynä käynnistyy myös Minnan vetämä NLP-koulutuskin.</p>\n<p>Ota yhteyttä Minnaan:</p>\n<p>FB: <a href=\"https://www.facebook.com/tyonohjausajantaikaa\" target=\"_blank\"><strong>@tyonohjausajantaikaa</strong></a></p>\n<p>IG: <a href=\"https://www.instagram.com/tyonohjaus_ajantaikaa/\" target=\"_blank\"><strong>@tyonohjaus_ajantaikaa</strong></a></p>\n<p>WWW: <a href=\"http://www.tyonohjausajantaikaa.fi/\" target=\"_blank\"><strong>tyonohjausajantaikaa.fi</strong></a></p>\n<p>EMAIL: <a href=\"mailto:minna.salinmaki@tyonohjausajantaikaa.fi\" target=\"_blank\"><strong>minna.salinmaki@tyonohjausajantaikaa.fi</strong></a></p>\n<p><br></p>\n<p>Jakson hostaaja: Petteri Koskinen</p>\n<p>#jämsätehdas #jämsä #etätyötila #lounastaukopodcast</p>\n<p>___________________________________________________________________</p>\n<p>Jämsä Tehtaan etätyötilassa kohtaavat erilaiset ihmiset ja erilaiset tarinat. Lounastauko vie ruokapöytäkeskustelut astetta pidemmälle ja antaa äänen pikkukaupungin osaamiselle ja tietotaidolle. Podcast-pöydän ääressä nostetaan esiin piilossa olevia jämsäläisten henkilö- ja yritystarinoita ja käsitellään työelämää sekä työn tekemistä erilaisista näkökulmista.</p>\n<p>Vieraile kulisseissa ja tutustu Lounastauon tukikohtaan Jämsä Tehtaaseen:</p>\n<p>WWW: <a href=\"https://jamsatehdas.fi/\"><strong>jamsatehdas.fi</strong></a></p>\n<p>IG: <a href=\"https://www.instagram.com/jamsatehdas\"><strong>@jamsatehdas</strong></a></p>\n<p>FB: <a href=\"https://www.facebook.com/jamsatehdas\"><strong>Jämsä Tehdas</strong></a></p>\n",
+        "explicit": "No",
+        "duration": "3516",
+        "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/15951742/15951742-1637135496225-21a167a78c336.jpg",
+        "episode": "15",
+        "season": "1"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+# Checks for new publishes every 5 minutes :)
+name: Node.js CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* * * * *'
+env:
+  WEBHOOK_ID: ${{ secrets.WEBHOOK_ID }}
+  WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
+  
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    environment: env
+    
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm install
+    - run: node index.js
+    - name: Commit files
+      run: |
+          git add .
+          git config --local user.email "raikas@testausserveri.fi"
+          git config --local user.name "bur4k"
+    - name: Commit
+      id: can_commit
+      run: |
+          commit_message=$(git commit -m "Update new data" -a | tr -d '\n' || true)
+          echo "::set-output name=commit_message::$commit_message"
+    - name: Push or leave
+      id: nothing_committed
+      if: false == contains(steps.can_commit.outputs.commit_message, 'nothing to commit')
+      run: git push origin main
