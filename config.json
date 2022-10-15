@@ -7,6 +7,6 @@
     ""
   ],
   "ping": [
-    "@here"
+     "@everyone","@ping"
   ]
 }
