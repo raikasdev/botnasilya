@@ -3,10 +3,10 @@
     "UClEujulPSSWawWosW14v5zg"
   ],
   "podcast": [
-    "",
-    ""
+    "https://hakkerit.libsyn.com/rss",
+    "https://hakkerit.libsyn.com/rss"
   ],
   "ping": [
-     "@everyone","@ping"
+    "@everyone"
   ]
 }
