@@ -67,7 +67,7 @@ const run = async () => {
       .setThumbnail(podcast.image)
       .setDescription(`${NodeHtmlMarkdown.translate(podcast.episode.content)}`)
       .setColor(0xff00ff)
-    await webhook.send`${config.ping.join" "} https://youtube.com/watch?v=${video.videoId}`, {
+    await webhook.send(`${config.ping.join(" ")} https://youtube.com/watch?v=${video.videoId}`), {
       username: 'TestausNotifier',
       avatarURL: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/53/bell_1f514.png',
       embeds: [embed],
