@@ -80,10 +80,10 @@ const run = async () => {
       .setURL(`https://youtube.com/watch?v=${video.videoId}`)
       .setImage(video.videoThumbnails[video.videoThumbnails.length - 1].url)
       .setColor(0xff0000)
-      .setFooter(`Julkaistu ${video.publishedText}`);
+      .setFooter(`Nasıl Ya ${video.publishedText}`);
     await webhook.send(config.ping.join(" "), {
-      username: 'TestausNotifier',
-      avatarURL: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/53/bell_1f514.png',
+      username: 'Nasıl Ya ',
+      avatarURL: 'https://yt3.ggpht.com/9cf0oBLM-B34tASm9XJuv7_8xryPrVPxTWexAeXcjqJQeJOXNJnEOtL0A4X2LrtpaiEbeyy9cw=s900-c-k-c0x00ffffff-no-rj',
       embeds: [embed],
     });
     return
