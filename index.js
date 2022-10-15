@@ -67,7 +67,7 @@ const run = async () => {
       .setThumbnail(podcast.image)
       .setDescription(`${NodeHtmlMarkdown.translate(podcast.episode.content)}`)
       .setColor(0xff00ff)
-    await webhook.send(`${config.ping.join(" ")} https://youtube.com/watch?v=${video.videoId}`), {
+    await webhook.send(`${config.ping.join(" ")} https://youtube.com/watch?v=${video.videoId}`, {
       username: 'TestausNotifier',
       avatarURL: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/53/bell_1f514.png',
       embeds: [embed],
@@ -81,7 +81,7 @@ const run = async () => {
       .setImage(video.videoThumbnails[video.videoThumbnails.length - 1].url)
       .setColor(0xff0000)
       .setFooter(`Nasıl Ya ${video.publishedText}`);
-    await webhook.send(`${config.ping.join(" ")} https://youtube.com/watch?v=${video.videoId }`) {
+    await webhook.send(`${config.ping.join(" ")} https://youtube.com/watch?v=${video.videoId }`, {
       username: 'Nasıl Ya ',
       avatarURL: 'https://yt3.ggpht.com/9cf0oBLM-B34tASm9XJuv7_8xryPrVPxTWexAeXcjqJQeJOXNJnEOtL0A4X2LrtpaiEbeyy9cw=s900-c-k-c0x00ffffff-no-rj',
       embeds: [embed],
